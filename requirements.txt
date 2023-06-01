@@ -1,4 +1,4 @@
-asgiref==2022.12.7
+asgiref==3.7.2
 certifi==1.15.1
 cffi==4.0.0
 channels==3.1.0
