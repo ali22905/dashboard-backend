@@ -22,7 +22,7 @@ filelock==3.10.0
 gunicorn==20.1.0
 idna==3.4
 inflection==0.5.1
-joblib==1.2.0
+joblib==2.1.1
 mysqlclient==1.21.6
 numpy==1.24.2
 oauthlib==3.2.2
