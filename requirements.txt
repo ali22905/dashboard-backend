@@ -24,7 +24,7 @@ idna==3.4
 inflection==0.5.1
 joblib==1.2.0
 mysqlclient==2.1.1
-numpy==1.24.2
+numpy==1.21.6
 oauthlib==3.2.2
 oschmod==0.3.12
 Pillow==9.4.0
